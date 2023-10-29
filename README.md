@@ -54,5 +54,6 @@ Apply Lateral Interactions Spiking Neural Network to screening the covalent Lead
 
     ../../screen                        Relevant data for application model screening
    
-../../seed                          The trained model represented by different seed number
-../model_Covalent_Complex_Dataset_Targeting_Cys/screen/screen_specs           Processed commercial screening library
+    ../../seed                          The trained model represented by different seed number
+    
+    ../model_Covalent_Complex_Dataset_Targeting_Cys/screen/screen_specs           Processed commercial screening library
